@@ -1,0 +1,6 @@
+github.com/pborman/check v1.0.2 h1:N/+1dlBnrQDNwsNM6q2hEyf68dwthSXL8+TtYr+yf5k=
+github.com/pborman/check v1.0.2/go.mod h1:pwrjaFRjDCNJI/Eknfw8q2FdBnG2lQUGZbErEho7aiE=
+github.com/pborman/flags v0.9.0 h1:F7JsRKSR1whyRpRmNP7jJsg0tb4OPk/EoLGjv6tslD4=
+github.com/pborman/flags v0.9.0/go.mod h1:USPwvNYWLMpAb4o3U6R+Co0w5H1Givyr0kFpW75UTsY=
+github.com/pborman/indent v1.2.1 h1:lFiviAbISHv3Rf0jcuh489bi06hj98JsVMtIDZQb9yM=
+github.com/pborman/indent v1.2.1/go.mod h1:FitS+t35kIYtB5xWTZAPhnmrxcciEEOdbyrrpz5K6Vw=
